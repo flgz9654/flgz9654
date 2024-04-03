@@ -8,7 +8,7 @@
 
 - 🔭 Actualmente estoy trabajando en Scitis Group Consultora de Modelos Analíticos.  
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y Python aplicado a Ciencia de Datos.  
+- 🌱 Actualmente estoy aprendiendo SQL y Python aplicado a Ciencia de Datos.  
 
 - ❓ Puedes preguntarme sobre MS Power BI.  
 
